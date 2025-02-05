@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import { gql, GraphQLClient } from "graphql-request";
 
 const query = gql`
